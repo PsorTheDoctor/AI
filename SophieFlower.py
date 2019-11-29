@@ -3,7 +3,7 @@
 # Fragrance is the first value in both arrays, colorfulness is second.
 # Which flowers does Sophie like?
 
-from resources.Neuron import Neuron
+from sources.Neuron import Neuron
 
 feature_weights = [1, 2]
 evaluated_object = [3, 2]
